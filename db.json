@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Arracada 1",
+      "precio": "60.00",
+      "imagen": "./Imagenes/Pulcera1.png"
+    },
+    {
+      "id": "2",
+      "nombre": "Arracada 2",
+      "precio": "70.00",
+      "imagen": "./Imagenes/Arracada2.png"
+    },
+    {
+      "id": "3",
+      "nombre": "Arracada 3 ",
+      "precio": "50.00",
+      "imagen": "./Imagenes/Arracada3.png"
+    },
+    {
+      "id": "4",
+      "nombre": "Arracada 4",
+      "precio": "50.00",
+      "imagen": "./Imagenes/Arracada4.png"
+    },
+    {
+      "id": "4",
+      "nombre": "Arracada 4",
+      "precio": "50.00",
+      "imagen": "./Imagenes/Pulcera1.png"
+    },
+    {
+      "id": "4",
+      "nombre": "Arracada 4",
+      "precio": "50.00",
+      "imagen": "./Imagenes/Pulcera2.png"
+    },
+    {
+      "id": "6880",
+      "nombre": "Juego de collar y aretes",
+      "precio": "100",
+      "imagen": "https://joymv8.github.io/imagenes-productos/juego2.jpg"
+    },
+    {
+      "id": "9696",
+      "nombre": "Juego de Collares 3",
+      "precio": "80",
+      "imagen": "https://joymv8.github.io/imagenes-productos/juego3.jpg"
+    },
+    {
+      "id": "122a",
+      "nombre": "Juego de Collar y aretes 4",
+      "precio": "100",
+      "imagen": "https://joymv8.github.io/imagenes-productos/juego4.jpg"
+    },
+    {
+      "id": "8932",
+      "nombre": "Juego de Collar y aretes",
+      "precio": "110",
+      "imagen": "https://joymv8.github.io/imagenes-productos/juego5.jpg"
+    }
+  ]
+}
